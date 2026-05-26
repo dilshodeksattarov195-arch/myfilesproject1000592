@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheuarse",
+        "uuid": 5195984,
+        "checksum": "rc5cs7"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
